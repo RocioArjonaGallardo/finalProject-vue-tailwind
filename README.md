@@ -20,6 +20,8 @@ Lighting designer for theater in my spare time. 🎭
 
 ## Technical Challenge
 
+Learn how to develop [SPA](https://en.wikipedia.org/wiki/Single-page_application) (single page applications) using Vue 3 and other technologies.
+
 ## Big Mistake
 
 ## Demo
